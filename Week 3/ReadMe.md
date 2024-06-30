@@ -1,4 +1,4 @@
-# Library Management System and Python Utilities
+# WEEK 3 TASKS
 
 This repository contains solutions for a series of Python programming tasks focusing on class creation, file handling, package design, and iterators/generators. The tasks are organized into four main areas:
 
