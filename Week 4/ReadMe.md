@@ -63,3 +63,10 @@ The Inventory Management System is a Python application designed to help manage 
   - Sample scripts demonstrating the use of advanced features.
 
 ## Project Structure
+week4/
+   ─ main.py
+   ─ inventory_management/
+   ─ init.py
+   ─ food_item.py
+   ─ inventory.py
+   ─ file_manager.py
