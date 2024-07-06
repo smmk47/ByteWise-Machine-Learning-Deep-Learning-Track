@@ -36,7 +36,12 @@ week4/
    - Search functionality allows users to find items by barcode, name, or category.
    - Reporting features generate detailed reports based on inventory data.
 
+## Usage
+To utilize the `inventory_management` package in your application:
 
+1. **Import Required Classes**
+   ```python
+   from inventory_management import FoodItem, Inventory, FileManager
 
 
 
