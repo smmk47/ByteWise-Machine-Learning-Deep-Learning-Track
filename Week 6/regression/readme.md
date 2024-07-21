@@ -1,6 +1,5 @@
-# Used Cars Price Prediction
 
-This notebook demonstrates a simple machine learning pipeline for predicting used car prices using regression algorithms. Below is a step-by-step explanation of the process:
+## This notebook demonstrates a simple machine learning pipeline for predicting used car prices using regression algorithms. Below is a step-by-step explanation of the process:
 
 1. **Imports and Data Loading**:
    - Import necessary libraries: `pandas`, `numpy`, `matplotlib`, `seaborn`, and `sklearn`.
