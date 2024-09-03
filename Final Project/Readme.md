@@ -134,3 +134,5 @@ The models were also tested on several individual reviews to compare their predi
 
 ## Recommendations
 Given the results, further tuning and experimentation with both models are recommended, especially for the hybrid model, which may have suffered from overfitting or issues related to the training process. Additionally, exploring other model architectures or combinations may yield better results in sentiment analysis tasks.
+
+
