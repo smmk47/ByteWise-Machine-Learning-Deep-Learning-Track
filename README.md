@@ -91,8 +91,7 @@ The goal of the fellowship is to equip participants with a solid foundation in M
 - **Machine Learning & Deep Learning**: [Hands-On ML with Scikit-Learn, Keras, and TensorFlow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)
 - **Neural Networks**: [3Blue1Brown Neural Networks Playlist](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
 
-## License
-This repository is licensed under the MIT License. See the `LICENSE` file for more details.
+
 
 ## Acknowledgements
 Special thanks to the Bytewise team for creating a structured and engaging ML/DL learning experience. This repository reflects my journey through their comprehensive fellowship program.
